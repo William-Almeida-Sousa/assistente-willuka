@@ -15,5 +15,11 @@ pip install assistente_willuka
 ## Author
 William Sousa
 
+## Test Pypy
+https://test.pypi.org/project/assistente-willuka/
+
+## Pypy
+https://pypi.org/project/assistente-willuka/
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
